@@ -27,6 +27,4 @@ Bu basit uygulama ile GitHub kullanıcılarını hızlıca bulabilir ve profille
 
 ## Ekran Görüntüsü
 
-![Proje Ekran Görüntüsü]
-<br>
-(gitCard.gif)
+![](gitCard.gif)
